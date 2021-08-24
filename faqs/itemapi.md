@@ -1,6 +1,6 @@
 You can send items through the CodeUtilities Item API. To connect, open a socket on port `31372`. You will send/receive data from this port.
 
-You can also use **websockets**, which can be accessed at at `ws://localhost:31371`
+You can also use **websockets**, which can be accessed at at `ws://localhost:31371/codeutilities/item`
 
 **Sending**
 To send items, you need to send a json object to the port. **There must be no newlines, as that is supposed to mark the end of your message. (So make sure to put a newline at the end)**
