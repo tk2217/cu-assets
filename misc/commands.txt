@@ -1,0 +1,54 @@
++ /nbs
+ - Import Note Block Studio Songs into Code Templates.
+
++ /schem
+ - Import Schematics into your DiamondFire Plot.
+
++ /imageparticle and /imagehologram
+ - Import pictures into DiamondFire.
+
++ /templates
+ - Shows recently used templates and allows you to click to get them.
+
++ /breakable
+ - Makes the item you're holding breakable
+
++ /dfgive
+ - Gives you the specified item
+
++ /itemdata
+ - Shows you the NBT data of the item you're holding, and gives you the option to copy to clipboard.
+ - Works in /play
+
++ /relativeloc
+ - Gives you a relative location. (For those who live in the past)
+
++ /unpack
+ - Unpacks the contents of the container item you're holding.
+
++ /webview
+ - Opens the template you're holding in Template Web View (https://derpystuff.gitlab.io/code/)
+
++ /codeutilities
+ - Shows you this list of commands.
+
++ /color
+ - Converts a rgb/hex/hsb color into spigot color codes (&x&f&f&f&f&f&f)
+
++ /colors
+ - Shows a simple hex color picker in the chat.
+
++ /gradient
+ - Shows a text colored in gradient.
+
++ /heads
+ - Opens a menu to search and get custom heads.
+
++ /node
+ - Sends you to the specified DiamondFire node.
+
++ /uuid
+ - Grabs the Text item with UUID of the specified player.
+
++ /plots
+ - Opens the plots gui without using the item.
