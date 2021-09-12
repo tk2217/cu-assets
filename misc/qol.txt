@@ -1,0 +1,47 @@
++ Items API
+ - Allow applications to send/recieve items directly to and from CodeUtilities.
+ - /sendtemplate will send your template to all connected applications.
+ - See #item-api-info for more information on this.
+
++ DiamondFire Rich Presence
+ - Show your friends on Discord what plot you're playing/coding/building on.
+
++ Tons of Keybinds
+ - Allows you to quickly use your favourite commands! (Options -> Controls -> CodeUtilities)
+
++ See other CodeUtilities Users
+ - A star appear next to any CodeUtilities user.
+
++ Automation
+ - Auto /rc, /lagslayer, /time, /nightvis, /fly, /chat local
+
++ Hide Messages
+ - Hide Join/Leave messages, variable scope messages, session spy or muted chat.
+ - You can also provide your own regex to hide.
+
++ Highlight mentions
+ - Highlight all mentions of you in chat and even play a sound if you feel like it.
+
++ Turn chests into barrels.
+ - All chests render as barrels to save your fps!
+
++ Sign Render Distance
+ - Configure signs to hide after a certain distance.
+
++ Quick Join DiamondFire
+ - Allows you to directly connect to DiamondFire from the title screen.
+
++ Variable Scope View
+ - Display the scope of the variable directly below it's name.
+
++ Show CPU on screen.
+ - Moves lagslayer action bar to the corner of your screen so that you can still see your beautiful action bars.
+
++ Show Client TPS in F3.
+ - Shows your client's TPS in F3.
+
++ Quick Variable Scope
+ - When changing a variable name allows you to add -l, -g or -s to the end of the message to change it's scope.
+
++ Function Usage Search
+ - Highlights all usages of a function (similar to an ESP) making it easier to find that annoying call function you placed randomly.
